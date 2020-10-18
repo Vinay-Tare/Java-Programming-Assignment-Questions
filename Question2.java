@@ -1,4 +1,5 @@
-/**State the order of evaluation of the operations in each of the following Java statements and
+/**
+ * 2. State the order of evaluation of the operations in each of the following Java statements and
  *implement them to show the value of x after each statement.
  *(1) x1 = 7 + 3 * 6 / 2 – 1;                   
  *(2) x2 = 2 % 2 + 2 * 2 – 2 / 2;               
