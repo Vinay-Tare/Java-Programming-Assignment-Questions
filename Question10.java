@@ -2,7 +2,7 @@
 /** 10.Write an application Program to demonstrate Method call activation records */
 
 /** Sources : 
- * Here Is An Reference Source You Can Go With On This Topic (A Much Better Ecplaination):
+ * Here Is An Reference Source You Can Go With On This Topic (A Much Better Explaination):
  * http://people.cs.ksu.edu/~schmidt/300s05/Lectures/Lecture3.html
  */
 
