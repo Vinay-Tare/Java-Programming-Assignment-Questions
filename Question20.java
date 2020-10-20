@@ -22,7 +22,7 @@ public class Question20 {
     }
 
     // Function Implementing Selection Sort Algorithm
-    static int selectionSort(int[] arr){
+    static void selectionSort(int[] arr){
         int temp, arrsize=arr.length;
 
         for(int i=0;i<arrsize;i++){
@@ -36,7 +36,5 @@ public class Question20 {
             arr[minpos] = arr[i];
             arr[i] = temp;
        }
-
-        return arr[0];
     }
 }
