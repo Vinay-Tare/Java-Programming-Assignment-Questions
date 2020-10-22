@@ -6,7 +6,7 @@
 import java.util.Scanner;
 public class Question3 {
     public static void main(String[] args) {
-        int a,b,c,d,e,largest;
+        int a,b,c,d,e,largest,smallest;
         Scanner scn = new Scanner(System.in);
         System.out.println("Enter 5 Integers:"); 
         a=scn.nextInt();
@@ -26,5 +26,17 @@ public class Question3 {
             largest = e;
 
         System.out.println("Largest of five integers is: "+largest);
+
+        smallest = a;
+        if (b < smallest)
+            smallest = b;
+        if (c < smallest)
+            smallest= c;
+        if (d < smallest)
+            smallest= d;
+        if (e < smallest)
+            smallest= e;
+
+        System.out.println("Smallest of five integers is: "+smallest);
     }
 }
