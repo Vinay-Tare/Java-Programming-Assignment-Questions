@@ -1,4 +1,4 @@
-/** 27. WAP in java to demonstrate VARANGS. */
+/** 27. WAP in java to demonstrate VARARGS. */
 
 /**          Variable Argument (Varargs): 
  * It is short-form for variable-length arguments. 
